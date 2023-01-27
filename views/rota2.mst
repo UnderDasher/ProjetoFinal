@@ -1,0 +1,28 @@
+<center><h1> Historico </h1></center>
+<hr/>
+<h2>Sementre 1</h2>
+<table border="1px">
+<tr>
+<td>Nome</td><td>Nota</td><td>Frequência</td>
+</tr>
+{{#disciplina1}}
+<tr>
+<td>{{nome}}</td><td>{{nota}}</td><td>{{frequencia}}</td>
+</tr>
+{{/disciplina1}}
+</table>
+
+<hr/>
+<h2>Sementre 2</h2>
+<table border="1px">
+<tr>
+<td>Nome</td><td>Nota</td><td>Frequência</td>
+</tr>
+{{#disciplina2}}
+<tr>
+<td>{{nome}}</td><td>{{nota}}</td><td>{{frequencia}}</td>
+</tr>
+{{/disciplina2}}
+</table>
+
+

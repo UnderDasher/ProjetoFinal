@@ -1,0 +1,31 @@
+<center><h1> Semestre 3 </h1></center>
+<hr/>
+<h2>Sementre 1</h2>
+<table border="1px">
+<tr>
+<td>Horario</td><td>Segunda</td><td>Terça</td><td>Quarta</td><td>Quinta</td><td>Sexta</td>
+</tr>
+
+<tr>
+<td>7:40 - 9:20</td>
+{{#h79}}
+<td>{{.}}</td>
+{{/h79}}
+</tr>
+
+<tr>
+<td>9:40 - 11:20</td>
+{{#h911}}
+<td>{{.}}</td>
+{{/h911}}
+</tr>
+
+<tr>
+<td>11:20 - 13:00</td>
+{{#h1113}}
+<td>{{.}}</td>
+{{/h1113}}
+</tr>
+
+
+</table>

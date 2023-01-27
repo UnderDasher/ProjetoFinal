@@ -1,3 +1,5 @@
 {{> header}}
 
-<h1> PAGINA HOME </h1>
+<p>este projeto foi feito ultilizando node express e outras tecnologias como mongoose, mustache, validator, notenv e nodemon.</p>
+<p>por meio deste projeto mostro o que aprendi em Node, express e json, principalmente sobre o funcionamento das rotas</p>
+<p>e também uma serie de normas de boas praticas para trabalhar em projetos</p>
